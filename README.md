@@ -1,1 +1,1 @@
-# Dokuemntácia k projektu Task_Manager
+# Dokumentácia k projektu Task_Manager
